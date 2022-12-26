@@ -1,16 +1,26 @@
-# login_with_firebase
+# Login With Firebase App
 
-A new Flutter project.
+Simple ***Login With Firebase App*** Created with **Flutter Freamwork** And **Dart Language**
 
-## Getting Started
+## Functionality
 
-This project is a starting point for a Flutter application.
+- Attractive UI
+- User Friendly 
+- Sign With Google
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://user-images.githubusercontent.com/113764228/209526932-1240aeae-44ee-46f8-b970-e2fa07b832a5.gif" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/209526940-a459479b-f5ac-4827-a1ef-b4018d0f76c5.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/209526930-bc89649c-4c9a-48a7-9de1-9551bc531218.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/209526928-39903135-a689-4e15-a07d-4886f5721355.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/209526925-64d9c1d2-018f-4b50-b9fe-6ca7e9dcb2f6.jpg" width="400"> &nbsp; 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at ishankakadiya7@gmail.com
+
